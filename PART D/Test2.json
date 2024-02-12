@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "question": "Tom ____ already left when you arrived.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "he"
+            },
+            {
+                "idA": "B",
+                "answer": "just"
+            },
+            {
+                "idA": "C",
+                "answer": "had"
+            },
+            {
+                "idA": "D",
+                "answer": "was"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "Tom had already left when you arrived."
+    },
+    {
+        "id": 2,
+        "question": "I ____ working until you came.",
+        "answers" : [
+            {
+                "idA": "A",
+                "answer": "am"
+            },
+            {
+                "idA": "B",
+                "answer": "will be"
+            },
+            {
+                "idA": "C",
+                "answer": "had been"
+            },
+            {
+                "idA": "D",
+                "answer": "won't"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "I had been working until you came."
+    },
+    {
+        "id": 3,
+        "question": "The landlord ____ just rented the apartment when I got there.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "almost"
+            },
+            {
+                "idA": "B",
+                "answer": "have"
+            },
+            {
+                "idA": "C",
+                "answer": "had been"
+            },
+            {
+                "idA": "D",
+                "answer": "had"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "The landlord had just rented the apartment hen I got there."
+    },
+    {
+        "id": 4,
+        "question": "____ they rented it before you called ?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "How"
+            },
+            {
+                "idA": "B",
+                "answer": "Who"
+            },
+            {
+                "idA": "C",
+                "answer": "Did"
+            },
+            {
+                "idA": "D",
+                "answer": "Had"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "Had they rented it before you called ?"
+    }
+]

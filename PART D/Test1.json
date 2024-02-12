@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 1,
+        "question": "___ a fluent speaker of English?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "Is her"
+            },
+            {
+                "idA": "B",
+                "answer": "He"
+            },
+            {
+                "idA": "C",
+                "answer": "Does she"
+            }, 
+            {
+                "idA": "D",
+                "answer": "Is she"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "Is she a fluent speaker of English?"
+    },
+    {
+        "id": 2,
+        "question": "This is a desk, and ____ tables?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "those are"
+            },
+            {
+                "idA": "B",
+                "answer": "these"
+            },
+            {
+                "idA": "C",
+                "answer": "that are"
+            }, 
+            {
+                "idA": "D",
+                "answer": "that is"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "This is a desk, and those are tables?"
+    },
+    {
+        "id": 3,
+        "question": "This is a ____ boyfriend?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "hers"
+            }, 
+            {
+                "idA": "B",
+                "answer": "of her"
+            },
+            {
+                "idA":"C",
+                "answer": "to him"
+            },
+            {
+                "idA": "D",
+                "answer": "her"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "This is a her boyfriend?"
+    }, 
+    {
+        "id": 4,
+        "question": "There are ___ people in the office.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "the" 
+            },
+            {
+                "idA": "B",
+                "answer": "little"
+            },
+            {
+                "idA": "C",
+                "answer": "some"
+            },
+            {
+                "idA": "D",
+                "answer": "any"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "There are some people in the office."
+    },
+    {
+        "id": 5,
+        "question": "_____ money on Helens table?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "There is some"
+            }, 
+            {
+                "idA": "B",
+                "answer": "There is any"
+            },
+            {
+                "idA": "C",
+                "answer": "Is it some"
+            },
+            {
+                "idA": "D",
+                "answer": "Is there any"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "Is there any money on Helens table?"
+    },
+    {
+        "id": 6,
+        "question": "A:Where's Helen?\nB:She ___ in the office.",
+        "answers": [
+            {
+                "idA":"A",
+                "answer": "is sitting"
+            },
+            {
+                "idA": "B",
+                "answer": "sit"
+            },
+            {
+                "idA": "C",
+                "answer": "sitting"
+            },
+            {
+                "idA": "D",
+                "answer": "sits"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "A:Where's Helen?\nB:She is sitting in the office."
+    },
+    {
+        "id": 7,
+        "question": "She _____ French and English, so she has got a good job.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "speak"
+            },
+            {
+                "idA": "B",
+                "answer": "speaks"
+            },
+            {
+                "idA": "C",
+                "answer": "speaking"
+            },
+            {
+                "idA": "D",
+                "answer": "is speaking"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "She speaks French and English, so she has got a good job."
+    },
+    {
+        "id": 8,
+        "question": "A:What ____ ?\nB:She is writing a letter.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "does she do"
+            },
+            {
+                "idA": "B",
+                "answer": "does she"
+            },
+            {
+                "idA": "C",
+                "answer": "is she doing"
+            },
+            {
+                "idA": "D",
+                "answer": "she is doing"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "A:What is she doing ?\nB:She is writing a letter."
+    },
+    {
+        "id": 9,
+        "question": "She ____ speaks no foreign languages.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "is not"
+            },
+            {
+                "idA": "B",
+                "answer": "__"
+            },
+            {
+                "idA": "C",
+                "answer": "doesn't"
+            },
+            {
+                "idA": "D",
+                "answer": "don't"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "She speaks no foreign languages."
+    },
+    {
+        "id": 10,
+        "question": "A:Are Peter and Mary still sitting in the office?\nB:No, ____.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "They don't sit"
+            },
+            {
+                "idA": "B",
+                "answer": "they standing"
+            },
+            {
+                "idA": "C",
+                "answer": "there aren't"
+            },
+            {
+                "idA": "D",
+                "answer": "they aren't"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "A:Are Peter and Mary still sitting in the office?\nB:No, they aren't."
+    },
+    {
+        "id": 11,
+        "question": "What language ____ ?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "do you speak"
+            },
+            {
+                "idA": "B",
+                "answer": "you speak"
+            },
+            {
+                "idA": "C",
+                "answer": "you are speaking"
+            },
+            {
+                "idA": "D",
+                "answer": "speak you"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "What language do you speak?"
+    },
+    {
+        "id": 12,
+        "question": "A:Are there any people in the bar?\nB:No, ___.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "any"
+            },
+            {
+                "idA": "B",
+                "answer": "there aren't"
+            },
+            {
+                "idA": "C",
+                "answer": "there isn't"
+            },
+            {
+                "idA": "D",
+                "answer": "are there"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "A:Are there any people in the bar?\nB:No, there aren't."
+    },
+    {
+        "id": 13,
+        "question": "Helen has got only ____ money.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "any"
+            },
+            {
+                "idA": "B",
+                "answer": "a little"
+            },
+            {
+                "idA": "C",
+                "answer": "no"
+            },
+            {
+                "idA": "D",
+                "answer": "few"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "Helen has got only a little money."
+    },
+    {
+        "id": 14,
+        "question": "A:Do yoou want some tea?\nB:No, I don't want ___ thank you.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "nothing"
+            },
+            {
+                "idA": "B",
+                "answer": "none"
+            },
+            {
+                "idA": "C",
+                "answer": "anything"
+            },
+            {
+                "idA": "D",
+                "answer": "something"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "A:Do yoou want some tea?\nB:No, I don't want anything thank you."
+    },
+    {
+        "id": 15,
+        "question": "I'm sorry, but I ___ the test yet.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "don't finish"
+            },
+            {
+                "idA": "B",
+                "answer": "haven't finish"
+            },
+            {
+                "idA": "C",
+                "answer": "didn't finish"
+            },
+            {
+                "idA": "D",
+                "answer": "aren't finished"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "I'm sorry, but I haven't finished the test yet."
+    },
+    {
+        "id": 16,
+        "question": "____ English before?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "Have you"
+            },
+            {
+                "idA": "B",
+                "answer": "Do you study"
+            },
+            {
+                "idA": "C",
+                "answer": "Are you studying"
+            },
+            {
+                "idA": "D",
+                "answer": "Have you studied"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "Have you study English before?"
+    },
+    {
+        "id": 17,
+        "question": "Marry ___ to the bank on Monday.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "go"
+            },
+            {
+                "idA": "B",
+                "answer": "going"
+            },
+            {
+                "idA": "C",
+                "answer": "gone"
+            },
+            {
+                "idA": "D",
+                "answer": "went"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "Marry went to the bank on Monday."
+    },
+    {
+        "id": 18,
+        "question": "Marry ___ hasn't telephoned Peter.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "yet"
+            },
+            {
+                "idA": "B",
+                "answer": "still"
+            },
+            {
+                "idA": "C",
+                "answer": "always"
+            },
+            {
+                "idA": "D",
+                "answer": "never"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "Marry still hasn't telephoned Peter."
+    },
+    {
+        "id": 19,
+        "question": "Peter _____ in the living room when the phone rang.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "was sitting"
+            },
+            {
+                "idA": "B",
+                "answer": "has been sitting"
+            },
+            {
+                "idA": "C",
+                "answer": "at"
+            },
+            {
+                "idA": "D",
+                "answer": "has she wanted"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "Peter was sitting in the living room when the phone rang."
+    },
+    {
+        "id": 20,
+        "question": "A:What ___?\nB:She wanted to talk to him.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "wwanted she"
+            },
+            {
+                "idA": "B",
+                "answer": "did she want"
+            },
+            {
+                "idA": "C",
+                "answer": "she wanted"
+            },
+            {
+                "idA": "D",
+                "answer": "has she wanted"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "A:What did she want?\nB:She wanted to talk to him."
+    },
+    {
+        "id": 21,
+        "question": "Peter can't speak Italien, ____?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "isn't"
+            },
+            {
+                "idA": "B",
+                "answer": "can't he"
+            }, 
+            {
+                "idA": "C",
+                "answer": "does he"
+            },
+            {
+                "idA": "D",
+                "answer": "can he"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "Peter can't speak Italien, can he?"
+    },
+    {
+        "id": 22,
+        "question": "Jack ___ Turkish soon.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "goes to learn"
+            },
+            {
+                "idA": "B",
+                "answer": "learns"
+            },
+            {
+                "idA": "C",
+                "answer": "is going to learn"
+            },
+            {
+                "idA": "D",
+                "answer": "is learning"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "Jack is going to learn Turkish soon."
+    },
+    {
+        "id": 23,
+        "question": "He asked her friend to speak ____ on the telephone.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "clear"
+            },
+            {
+                "idA": "B",
+                "answer": "more clearly"
+            },
+            {
+                "idA": "C",
+                "answer": "very clear"
+            },
+            {
+                "idA": "D",
+                "answer": "too clearly"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "He asked her friend to speak more clearly on the telephone"
+    },
+    {
+        "id": 24,
+        "question": "\"What ____ this evening?\" Marry asked.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "you will do"
+            },
+            {
+                "idA": "B",
+                "answer": "do you"
+            },
+            {
+                "idA": "C",
+                "answer": "very clear"
+            },
+            {
+                "idA": "D",
+                "answer": "are you doing"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "\"What are you doing this evening?\" Marry asked."
+    },
+    {
+        "id": 25,
+        "question": "She enjoys ____ to parties.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "to go"
+            },
+            {
+                "idA": "B",
+                "answer": "that they go"
+            },
+            {
+                "idA": "C",
+                "answer": "going"
+            },
+            {
+                "idA": "D",
+                "answer": "go"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "She enjoys going to parties."
+    },
+    {
+        "id": 26,
+        "question": "His girlfriend ____ while he was still having bath.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "was arriving"
+            },
+            {
+                "idA": "B",
+                "answer": "has arrived"
+            },
+            {
+                "idA": "C",
+                "answer": "arrived"
+            },
+            {
+                "idA": "D",
+                "answer": "is arriving"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "His girlfriend arrived while he was still having bath."
+    },
+    {
+        "id": 27,
+        "question": "\"If I ___ quickly, we wont be late for the party\", said Peter.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "drive"
+            },
+            {
+                "idA": "B",
+                "answer": "will drive"
+            },
+            {
+                "idA": "C",
+                "answer": "drove"
+            },
+            {
+                "idA": "D",
+                "answer": "would drive"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "\"If I drive quickly, we wont be late for the party\", said Peter."
+    },
+    {
+        "id": 28,
+        "question": "She asked him where ____.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "the party is"
+            },
+            {
+                "idA": "B",
+                "answer": "the party was"
+            },
+            {
+                "idA": "C",
+                "answer": "was the party"
+            },
+            {
+                "idA": "D",
+                "answer": "is the party"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "She asked him where the party was."
+    },
+    {
+        "id": 29,
+        "question": "\"If I ___ the way to the house, we wouldn't be so late.\"He replied.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "knew"
+            },
+            {
+                "idA": "B",
+                "answer": "know"
+            },
+            {
+                "idA": "C",
+                "answer": "would know"
+            },
+            {
+                "idA": "D",
+                "answer": "had know"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "\"If I knew the way to the house, we wouldn't be so late.\"He replied."
+    },
+    {
+        "id": 30,
+        "question": "Peter wanted _____ a policeman.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "that Mary would ask"
+            },
+            {
+                "idA": "B",
+                "answer": "Mary asking"
+            },
+            {
+                "idA": "C",
+                "answer": "Mary should ask"
+            },
+            {
+                "idA": "D",
+                "answer": "Mary to ask"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "Peter wanted Mary to ask a policeman."
+    },
+    {
+        "id": 31,
+        "question": "Mary said she ____ him driving fast, and asked him to slow down.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "isn't liking"
+            },
+            {
+                "idA": "B",
+                "answer": "hasn't liking"
+            },
+            {
+                "idA": "C",
+                "answer": "didn't like"
+            },
+            {
+                "idA": "D",
+                "answer": "doesn't like"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "Mary said she didn't like him driving fast, and asked him to slow down."
+    },
+    {
+        "id": 32,
+        "question": "When they finally arrived, they ____ the car and went in.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "had parked"
+            },
+            {
+                "idA": "B",
+                "answer": "were parking"
+            },
+            {
+                "idA": "C",
+                "answer": "parked"
+            },
+            {
+                "idA": "D",
+                "answer": "have parked"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "When they finally arrived, they parked the car and went in."
+    },
+    {
+        "id": 33,
+        "question": "They were ____ that they didn't get anything to eat.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "such late"
+            },
+            {
+                "idA": "B",
+                "answer": "so late"
+            },
+            {
+                "idA": "C",
+                "answer": "too late"
+            },
+            {
+                "idA": "D",
+                "answer": "very late"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "They were so late that they didn't get anything to eat."
+    },
+    {
+        "id": 34,
+        "question": "Peter made Mary ____ all night.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "to dance"
+            },
+            {
+                "idA": "B",
+                "answer": "that she danced"
+            },
+            {
+                "idA": "C",
+                "answer": "dance"
+            },
+            {
+                "idA": "D",
+                "answer": "dancing"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "Peter made Mary dance all night."
+    },
+    {
+        "id": 35,
+        "question": "When you ____ him tomorrow, you will think he is ten years older.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "see"
+            },
+            {
+                "idA": "B",
+                "answer": "will be"
+            },
+            {
+                "idA": "C",
+                "answer": "would see"
+            },
+            {
+                "idA": "D",
+                "answer": "are going to see"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "When you see him tomorrow, you will think he is ten years older."
+    },
+    {
+        "id": 36,
+        "question": "He promised his wife they ___ here earlier next time.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "will get"
+            },
+            {
+                "idA": "B",
+                "answer": "get"
+            },
+            {
+                "idA": "C",
+                "answer": "shall get"
+            },
+            {
+                "idA": "D",
+                "answer": "would get"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "He promised his wife they would get here earlier next time."
+    },
+    {
+        "id": 37,
+        "question": "_____ Peter nor I was able to drive.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "Either"
+            },
+            {
+                "idA": "B",
+                "answer": "Not only"
+            },
+            {
+                "idA": "C",
+                "answer": "Nor"
+            },
+            {
+                "idA": "D",
+                "answer": "Neither"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "Neither Peter nor I was able to drive."
+    },
+    {
+        "id": 38,
+        "question": "Helen found a good job, and ____ Peter.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "also"
+            },
+            {
+                "idA": "B",
+                "answer": "too did"
+            },
+            {
+                "idA": "C",
+                "answer": "so did"
+            },
+            {
+                "idA": "D",
+                "answer": "so"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "Helen found a good job, and so did Peter."
+    },
+    {
+        "id": 39,
+        "question": "The milk ___ at 8 o'clock the following morning.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "was delivering"
+            },
+            {
+                "idA": "B",
+                "answer": "delivered"
+            },
+            {
+                "idA": "C",
+                "answer": "was delivered"
+            },
+            {
+                "idA": "D",
+                "answer": "is delivered"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "The milk was delivered at 8 o'clock the followng morning."
+    },
+    {
+        "id": 40,
+        "question": "\"If I'd known I'd feel so ill, I ____ to party\",Peter moaned.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "would go"
+            },
+            {
+                "idA": "B",
+                "answer": "wouldn't have gone"
+            },
+            {
+                "idA": "C",
+                "answer": "didn't go"
+            },
+            {
+                "idA": "D",
+                "answer": "would have gone"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "\"If I'd known I'd feel so ill, I wouldn't have gone to party\",Peter moaned."
+    },
+    {
+        "id": 41,
+        "question": "He heard on the morning news that a family of 6 ____ in an explosion.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "were being injured"
+            },
+            {
+                "idA": "B",
+                "answer": "had injured"
+            },
+            {
+                "idA": "C",
+                "answer": "have injured"
+            },
+            {
+                "idA": "D",
+                "answer": "had been injured"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "He heard on the morning news that a family of 6 had been injured in an explosion."
+    },
+    {
+        "id": 42,
+        "question": "The family had just had a news gas cooker ____ in their kitchen.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "fitted"
+            },
+            {
+                "idA": "B",
+                "answer": "fitting"
+            },
+            {
+                "idA": "C",
+                "answer": "to be fitted"
+            },
+            {
+                "idA": "D",
+                "answer": "for fit"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "The family had just had a news gas cooker fitted in their kitchen."
+    },
+    {
+        "id": 43,
+        "question": "The man who fixed it must ____ a mistake with the connections.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "have made"
+            },
+            {
+                "idA": "B",
+                "answer": "to have made"
+            },
+            {
+                "idA": "C",
+                "answer": "to made"
+            },
+            {
+                "idA": "D",
+                "answer": "made"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "The man who fixed it must have made a mistake with the connevtions."
+    },
+    {
+        "id": 44,
+        "question": "He ____ his job properly because a lot of gas escaped.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "shouldn't do"
+            },
+            {
+                "idA": "B",
+                "answer": "must have done"
+            },
+            {
+                "idA": "C",
+                "answer": "was able to do"
+            },
+            {
+                "idA": "D",
+                "answer": "can't have done"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "He can't have done his jobe properly because a lot of gas escaped."
+    },
+    {
+        "id": 45,
+        "question": "After Peter _____ his breakfast, he went to work.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "finishing"
+            },
+            {
+                "idA": "B",
+                "answer": "was finishing"
+            },
+            {
+                "idA": "C",
+                "answer": "had finished"
+            },
+            {
+                "idA": "D",
+                "answer": "has finished"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "After Peter had finished his breakfast, he went to work."
+    },
+    {
+        "id": 46,
+        "question": "He thought he ____ able to read about the explosion when he got home.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "will be"
+            },
+            {
+                "idA": "B",
+                "answer": "is"
+            },
+            {
+                "idA": "C",
+                "answer": "would be"
+            },
+            {
+                "idA": "D",
+                "answer": "was"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "He thought he would be able to read about the explosion when he got home."
+    },
+    {
+        "id": 47,
+        "question": "\"By the time I get home the story ___ in the evening newspaper,\"he thought.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "appears"
+            },
+            {
+                "idA": "B",
+                "answer": "would be"
+            },
+            {
+                "idA": "C",
+                "answer": "will have appeared"
+            },
+            {
+                "idA": "D",
+                "answer": "has appeared"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "\"By the time I get home the story will have appeared in the evening newspaper,\"he thought."
+    },
+    {
+        "id": 48,
+        "question": "Peter ____ spending weekends alone.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "didn't use to"
+            },
+            {
+                "idA": "B",
+                "answer": "wasn't used to"
+            },
+            {
+                "idA": "C",
+                "answer": "hadn't used to"
+            },
+            {
+                "idA": "D",
+                "answer": "used not to"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "Peter wasn't used to spending weekends alone."
+    },
+    {
+        "id": 49,
+        "question": "He wished she ____ have to spend so much time away.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "didn't"
+            },
+            {
+                "idA": "B",
+                "answer": "hadn't"
+            },
+            {
+                "idA": "C",
+                "answer": "doesn't"
+            },
+            {
+                "idA": "D",
+                "answer": "couldn't"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "He wished she didn't have to spend so much time away."
+    },
+    {
+        "id": 50,
+        "question": "He suggested ___ him on Tuesday evening.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "her to meet"
+            },
+            {
+                "idA": "B",
+                "answer": "she should meet"
+            },
+            {
+                "idA": "C",
+                "answer": "she meeting"
+            },
+            {
+                "idA": "D",
+                "answer": "that her meeting"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "He suggested she should meet him on Tuesday evening."
+    },
+    {
+        "id": 51,
+        "question": "You ___ have worried because the test wasn't difficult, was it?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "could"
+            },
+            {
+                "idA": "B",
+                "answer": "needn't"
+            },
+            {
+                "idA": "C",
+                "answer": "must"
+            },
+            {
+                "idA": "D",
+                "answer": "wouldn't"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "You needn't have worried because the test wasn't difficult, was it?"
+    },
+    {
+        "id": 52,
+        "question": "Now it's time _____ a short composition.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "you write"
+            },
+            {
+                "idA": "B",
+                "answer": "you are writing"
+            },
+            {
+                "idA": "C",
+                "answer": "for to write"
+            },
+            {
+                "idA": "D",
+                "answer": "you wrote"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "Now it's time you wrote a short composition."
+    },
+    {
+        "id": 53,
+        "question": "He ____ ill for a long time.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "has had"
+            },
+            {
+                "idA": "B",
+                "answer": "has been"
+            },
+            {
+                "idA": "C",
+                "answer": "is"
+            },
+            {
+                "idA": "D",
+                "answer": "were"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "He has been ill for a long time."
+    },
+    {
+        "id": 54,
+        "question": "I had two eggs for breakfast and ____ of them was fresh.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "either"
+            },
+            {
+                "idA": "B",
+                "answer": "neither"
+            },
+            {
+                "idA": "C",
+                "answer": "no"
+            },
+            {
+                "idA": "D",
+                "answer": "none"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "I had two eggs for breakfast and neither of them was fresh."
+    },
+    {
+        "id": 55,
+        "question": "A:Have you passed the test?\nB:_____.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "I don't doubt"
+            },
+            {
+                "idA": "B",
+                "answer": "Yes, I doubt it"
+            },
+            {
+                "idA": "C",
+                "answer": "I doubt"
+            },
+            {
+                "idA": "D",
+                "answer": "I doubt it"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "A:Have you passed the test?\nB:I doubt it."
+    },
+    {
+        "id": 56,
+        "question": "I usually watch TV, but at present I ____ to the radio.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "am listening"
+            },
+            {
+                "idA": "B",
+                "answer": "listened"
+            },
+            {
+                "idA": "C",
+                "answer": "listen"
+            },
+            {
+                "idA": "D",
+                "answer": "will listen"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "I usually watch TV, but at present I am listening to the radio."
+    },
+    {
+        "id": 57,
+        "question": "He speaks English well ____ he has never been to England.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "however"
+            },
+            {
+                "idA": "B",
+                "answer": "even"
+            },
+            {
+                "idA": "C",
+                "answer": "so"
+            },
+            {
+                "idA": "D",
+                "answer": "although"
+            }     
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "He speaks English well although he has never been to England."
+    },
+    {
+        "id": 58,
+        "question": "How long ____ Mr.Brown?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "do you know"
+            },
+            {
+                "idA": "B",
+                "answer": "did you know"
+            },
+            {
+                "idA": "C",
+                "answer": "have you known"
+            },
+            {
+                "idA": "D",
+                "answer": "will you known"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "How long have you known Mr.Brown?"
+    },
+    {
+        "id": 59,
+        "question": "Jane is ___ than Mary.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "very tall"
+            },
+            {
+                "idA": "B",
+                "answer": "taller"
+            },
+            {
+                "idA": "C",
+                "answer": "the tallest"
+            },
+            {
+                "idA": "D",
+                "answer": "tallest"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "Jane is taller than Mary."
+    },
+    {
+        "id": 60,
+        "question": "While I ____ my car I heard a scream.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "was parking"
+            },
+            {
+                "idA": "B",
+                "answer": "will park"
+            },
+            {
+                "idA": "C",
+                "answer": "park"
+            },
+            {
+                "idA": "D",
+                "answer": "have parked"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "While I was parking my car I heard a scream."
+    },
+    {
+        "id": 61,
+        "question": "Turkish is easy, but English _____.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "is"
+            },
+            {
+                "idA": "B",
+                "answer": "does not"
+            },
+            {
+                "idA": "C",
+                "answer": "is not"
+            },
+            {
+                "idA": "D",
+                "answer": "is not, either"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "Turkish is easy, but English is not."
+    },
+    {
+        "id": 62,
+        "question": "____ are broken.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "The legs of the table"
+            },
+            {
+                "idA": "B",
+                "answer": "Table's leg"
+            },
+            {
+                "idA": "C",
+                "answer": "One leg of the table"
+            },
+            {
+                "idA": "D",
+                "answer": "One of the legs of table"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "The legs of the table are broken."
+    },
+    {
+        "id": 63,
+        "question": "There is ____ we can do to help you.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "nothing"
+            },
+            {
+                "idA": "B",
+                "answer": "anything"
+            },
+            {
+                "idA": "C",
+                "answer": "somewhere"
+            },
+            {
+                "idA": "D",
+                "answer": "any"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "The is nothing we can do to helps you."
+    },
+    {
+        "id": 64,
+        "question": "My brother is very _____ musician.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "the most talented"
+            },
+            {
+                "idA": "B",
+                "answer": "talented"
+            },
+            {
+                "idA": "C",
+                "answer": "more talented"
+            },
+            {
+                "idA": "D",
+                "answer": "talent"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "My brother is very talented musician."
+    },
+    {
+        "id": 65,
+        "question": "He wrote a ____ book last year.",
+        "answers":[
+            {
+                "idA": "A",
+                "answer": "good"
+            },
+            {
+                "idA": "B",
+                "answer": "the worst"
+            },
+            {
+                "idA": "C",
+                "answer": "worst"
+            },
+            {
+                "idA": "D",
+                "answer": "very"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "He wrote a good book last year."
+    },
+    {
+        "id": 66,
+        "question": "The detective has not solved the mystery ____.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "still"
+            },
+            {
+                "idA": "B",
+                "answer": "yet"
+            },
+            {
+                "idA": "C",
+                "answer": "already"
+            },
+            {
+                "idA": "D",
+                "answer": "therefore"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "Th detective has not solved the mystery yet."
+    },
+    {
+        "id": 67,
+        "question": "He _____ in Africa this time tomorrow.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "is traveling"
+            },
+            {
+                "idA": "B",
+                "answer": "was traveling"
+            },
+            {
+                "idA": "C",
+                "answer": "will be traveling"
+            },
+            {
+                "idA": "D",
+                "answer": "has been traveling"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "He will be traveling in Africa this time tomorrow."
+    },
+    {
+        "id": 68,
+        "question": "My brother is ____ young to be a team leader.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "enough"
+            },
+            {
+                "idA": "B",
+                "answer": "too"
+            },
+            {
+                "idA": "C",
+                "answer": "yet"
+            },
+            {
+                "idA": "D",
+                "answer": "much"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "My brother is too young to be a team leader."
+    },
+    {
+        "id": 69,
+        "question": "_____ of this books do you like best?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "Which"
+            },
+            {
+                "idA": "B",
+                "answer": "What"
+            },
+            {
+                "idA": "C",
+                "answer": "Who"
+            },
+            {
+                "idA": "D",
+                "answer": "Whom"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "Which of this books do you like best?"
+    },
+    {
+        "id": 70,
+        "question": "My friend asked me ____ I wanted to drink anything.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "what"
+            },
+            {
+                "idA": "B",
+                "answer": "wich"
+            },
+            {
+                "idA": "C",
+                "answer": "if"
+            },
+            {
+                "idA": "D",
+                "answer": "that"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "My friend asked me if I wanted to drink anything."
+    },
+    {
+        "id": 71,
+        "question": "_____ read any good book recently?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "Have you"
+            },
+            {
+                "idA": "B",
+                "answer": "Do you"
+            },
+            {
+                "idA": "C",
+                "answer": "Did you"
+            },
+            {
+                "idA": "D",
+                "answer": "Are you"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "Have you read any good book recently?"
+    },
+    {
+        "id": 72,
+        "question": "She doesn't have ___  money.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "many"
+            },
+            {
+                "idA": "B",
+                "answer": "much"
+            },
+            {
+                "idA": "C",
+                "answer": "no"
+            },
+            {
+                "idA": "D",
+                "answer": "very"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "She doesn't have much money."
+    },
+    {
+        "id": 73,
+        "question": "George enjoys _____ in the sea.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "from swimming"
+            },
+            {
+                "idA": "B",
+                "answer": "swim"
+            },
+            {
+                "idA": "C",
+                "answer": "to swim"
+            },
+            {
+                "idA": "D",
+                "answer": "swimming"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "George enjoys swimming in the sea."
+    },
+    {
+        "id": 74,
+        "question": "Can you tell me ____ ?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "where does Jack live"
+            },
+            {
+                "idA": "B",
+                "answer": "where Jack lives"
+            },
+            {
+                "idA": "C",
+                "answer": "where is Jack living"
+            },
+            {
+                "idA": "D",
+                "answer": "where is Jack"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "Can you tell me where Jack lives?"
+    },
+    {
+        "id": 75,
+        "question": "Did you see the pencil ____ two days ago?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "I bought it"
+            },
+            {
+                "idA": "B",
+                "answer": "wich I bought it"
+            },
+            {
+                "idA": "C",
+                "answer": "that I bought it"
+            },
+            {
+                "idA": "D",
+                "answer": "wich I bought"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "Did you see the pencil wich I bought two days ago?"
+    },
+    {
+        "id": 76,
+        "question": "He would buy a new car if he ____ more money.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "had"
+            },
+            {
+                "idA": "B",
+                "answer": "would had"
+            },
+            {
+                "idA": "C",
+                "answer": "would have"
+            },
+            {
+                "idA": "D",
+                "answer": "have had"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "He would buy a new car if he had more money."
+    },
+    {
+        "id": 77,
+        "question": "Alice is the same ago ___ David.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "with"
+            },
+            {
+                "idA": "B",
+                "answer": "like"
+            },
+            {
+                "idA": "C",
+                "answer": "as"
+            },
+            {
+                "idA": "D",
+                "answer": "by"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "Alice is the same age as David"
+    },
+    {
+        "id": 78,
+        "question": "Who ____ the dinner?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "did cook"
+            },
+            {
+                "idA": "B",
+                "answer": "cooked"
+            },
+            {
+                "idA": "C",
+                "answer": "was cook"
+            },
+            {
+                "idA": "D",
+                "answer": "is cooked"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "Who cooked the dinner?"
+    },
+    {
+        "id": 79,
+        "question": "How many times a week did you do English at school?",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "Four times in a week"
+            },
+            {
+                "idA": "B",
+                "answer": "Twice in a week"
+            },
+            {
+                "idA": "C",
+                "answer": "Once in a week"
+            },
+            {
+                "idA": "D",
+                "answer": "Twice a week"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "How many times a week did you do English at school?\nTwice a week"
+    },
+    {
+        "id": 80,
+        "question": "She is staying with her parents ____ the time being becauseshe can't afford to rent an apartement.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "during"
+            },
+            {
+                "idA": "B",
+                "answer": "for"
+            },
+            {
+                "idA": "C",
+                "answer": "since"
+            },
+            {
+                "idA": "D",
+                "answer": "in"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "She is staying with her parents for the time being becauseshe can't afford to rent an apartement."
+    },
+    {
+        "id": 81,
+        "question": "The children want me to ____ them a story now.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "say"
+            },
+            {
+                "idA": "B",
+                "answer": "talk"
+            },
+            {
+                "idA": "C",
+                "answer": "tell"
+            },
+            {
+                "idA": "D",
+                "answer": "speak"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "The children want me to tell them a story now."
+    },
+    {
+        "id": 82,
+        "question": "He ____ hard because he answered all the questions in the exam.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "must have studied"
+            },
+            {
+                "idA": "B",
+                "answer": "should study"
+            },
+            {
+                "idA": "C",
+                "answer": "should have studied"
+            },
+            {
+                "idA": "D",
+                "answer": "ought to study"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "He must have studied hard because he answered all the questions in the exam."
+    },
+    {
+        "id": 83,
+        "question": "His aunt died three months ago. Since then he ____ to Ankara twice.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "went"
+            },
+            {
+                "idA": "B",
+                "answer": "has gone"
+            },
+            {
+                "idA": "C",
+                "answer": "is going"
+            },
+            {
+                "idA": "D",
+                "answer": "was gone"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "His aunt died three months ago. Since then he has gone to Ankara twice"
+    },
+    {
+        "id": 84,
+        "question": "She married ___ an Englishman.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "by"
+            },
+            {
+                "idA": "B",
+                "answer": "with"
+            },
+            {
+                "idA": "C",
+                "answer": "to"
+            },
+            {
+                "idA": "D",
+                "answer": "too"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "She married to an Englishman."
+    },
+    {
+        "id": 85,
+        "question": "They met some people ____ sons were all football players.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "who"
+            },
+            {
+                "idA": "B",
+                "answer": "who's"
+            },
+            {
+                "idA": "C",
+                "answer": "whom"
+            },
+            {
+                "idA": "D",
+                "answer": "whose"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "They met some people whose sons were all football players."
+    },
+    {
+        "id": 86,
+        "question": "They really don't know ____.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "when does he football game begin"
+            },
+            {
+                "idA": "B",
+                "answer": "when the football game begin"
+            },
+            {
+                "idA": "C",
+                "answer": "when begins the football game"
+            },
+            {
+                "idA": "D",
+                "answer": "when the football game begins"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "They really don't know when the football game begins."
+    },
+    {
+        "id": 87,
+        "question": "He ____ difficulty on the last test he took.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "had"
+            },
+            {
+                "idA": "B",
+                "answer": "has"
+            },
+            {
+                "idA": "C",
+                "answer": "is having"
+            },
+            {
+                "idA": "D",
+                "answer": "will have"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "He had difficulty on the last test he took."
+    },
+    {
+        "id": 88,
+        "question": "After ____ his coffee, he left the restaurant.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "drinking"
+            },
+            {
+                "idA": "B", 
+                "answer": "drank"
+            },
+            {
+                "idA": "C",
+                "answer": "drink"
+            },
+            {
+                "idA": "D",
+                "answer": "to drink"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "After drinking his coffee, he left the restaurant."
+    },
+    {
+        "id": 89,
+        "question": "She only takes ____ sugar in her tea.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "few"
+            },
+            {
+                "idA": "B", 
+                "answer": "a lot"
+            },
+            {
+                "idA": "C",
+                "answer": "a little"
+            },
+            {
+                "idA": "D",
+                "answer": "a few"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "She only takes a little sugar in her tea."
+    },
+    {
+        "id": 90,
+        "question": "The teacher's book, ______ lives of great men and women, has 500 pages.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "who contains"
+            },
+            {
+                "idA": "B",
+                "answer": "wich contains"
+            },
+            {
+                "idA": "C",
+                "answer": "wich is contain"
+            },
+            {
+                "idA": "D",
+                "answer": "whose contains"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "The teacher's book, wich contains lives of great men and women, has 500 pages."
+    },
+    {
+        "id": 91,
+        "question": "They _____ earlier than the others, but they arrived later.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "are leaving"
+            },
+            {
+                "idA": "B",
+                "answer": "had left"
+            },
+            {
+                "idA": "C",
+                "answer": "leave"
+            },
+            {
+                "idA": "D",
+                "answer": "left"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "They leave earlier than the others, but they arrived later."
+    },
+    {
+        "id": 92,
+        "question": "You can travel _____.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "neither by train or bus"
+            },
+            {
+                "idA": "B",
+                "answer": "either by train or by bus"
+            },
+            {
+                "idA": "C",
+                "answer": "either by train or bus"
+            },
+            {
+                "idA": "D",
+                "answer": "or by train nor by bus"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "You can travel either by train or bus."
+    },
+    {
+        "id": 93,
+        "question": "They will leave the house as soon as they ____ lunch.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "finish eating"
+            },
+            {
+                "idA": "B",
+                "answer": "will finish to eat"
+            },
+            {
+                "idA": "C",
+                "answer": "finish to eat"
+            },
+            {
+                "idA": "D",
+                "answer": "will finish eating"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "They will leave the house as soon as they finish eating lunch."
+    },
+    {
+        "id": 94,
+        "question": "_____ all her efforts, she could not please her family.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "In spite of"
+            },
+            {
+                "idA": "B",
+                "answer": "Nevretheless"
+            },
+            {
+                "idA": "C",
+                "answer": "Although"
+            },
+            {
+                "idA": "D",
+                "answer": "However"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "In spite of all efforts, she could not please her family."
+    },
+    {
+        "id": 95,
+        "question": "We ____ helped you even if we had wanted to because we did not know how to do it.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "may not have"
+            },
+            {
+                "idA":"B",
+                "answer": "can't have"
+            },
+            {
+                "idA": "C",
+                "answer": "might not have"
+            },
+            {
+                "idA": "D",
+                "answer": "couldn't have"
+            }
+        ],
+        "rightAnswerId": "D",
+        "fullAnswer": "We couldn't have helped you even if we had wanted to because we did not know how to do it."
+    },
+    {
+        "id": 96,
+        "question": "I should have called him right away if I _____ his telephone number.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "have know"
+            },
+            {
+                "idA": "B",
+                "answer": "will know"
+            },
+            {
+                "idA": "C",
+                "answer": "had known"
+            },
+            {
+                "idA": "D",
+                "answer": "would know"
+            }
+        ],
+        "rightAnswerId": "C",
+        "fullAnswer": "I should have called him right away if I had known his telephone number."
+    },
+    {
+        "id": 97,
+        "question": "____ coffee after dinner.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "I'm used to drinking"
+            },
+            {
+                "idA": "B",
+                "answer": "I used to drinking"
+            },
+            {
+                "idA": "C",
+                "answer": "I'm used drinking"
+            },
+            {
+                "idA": "D",
+                "answer": "Would know"
+            }
+        ],
+        "rightAnswerId": "A",
+        "fullAnswer": "I'm used to drinking coffee after dinner."
+    },
+    {
+        "id": 98,
+        "question": "They were speaking so loudly that I couldn't help ____ what they said.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "to overhear"
+            },
+            {
+                "idA": "B",
+                "answer": "overhearing"
+            },
+            {
+                "idA": "C",
+                "answer": "overhear"
+            },
+            {
+                "idA": "D",
+                "answer": "but to overhear"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "They were speaking so loudly that I couldn't help overhearing what they said."
+    },
+    {
+        "id": 99,
+        "question": "He seems to be director, I remember ____ in school.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "saw him"
+            },
+            {
+                "idA": "B",
+                "answer": "seeing him"
+            },
+            {
+                "idA": "C",
+                "answer": "him to see"
+            },
+            {
+                "idA": "D",
+                "answer": "to see him"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "He seems to be director, I remember seeing him in school."
+    },
+    {
+        "id": 100,
+        "question": "To travel in the European Community, Dutch peaople ____ a passport.",
+        "answers": [
+            {
+                "idA": "A",
+                "answer": "haven't got"
+            },
+            {
+                "idA": "B",
+                "answer": "don't need"
+            },
+            {
+                "idA": "C",
+                "answer": "mustn't get"
+            },
+            {
+                "idA": "D",
+                "answer": "shouldn't get"
+            }
+        ],
+        "rightAnswerId": "B",
+        "fullAnswer": "To travel in the European Community, Dutch peaople don't need a passport."
+    }
+]
