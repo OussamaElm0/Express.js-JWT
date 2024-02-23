@@ -1,20 +1,18 @@
-import express from "express";
-import {
-  createTest,
-  findAllTests,
-  findTestById,
-  updateTest,
-  deleteTest,
-} from "./db.js";
-import cors from "cors";
-import bodyParser from "body-parser";
+const express = require("express");
+const {
+    createTest,
+    findAllTests,
+    findTestById,
+    updateTest,
+    deleteTest,
+} = require("./db.js");
+const authRouter = require("./auth.js");
 
 const app = express();
 const port = 4000;
 
-app.use(cors());
 app.use(express.json());
-app.use(bodyParser.json());
+app.use('/auth',authRouter)
 
 // Read all tests
 app.get('/tests', async (req, res) => {

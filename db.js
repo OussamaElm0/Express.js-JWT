@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+const mongoose = require('mongoose')
 
 mongoose.connect("mongodb://127.0.0.1:27017/English");
 const db = mongoose.connection;
@@ -36,4 +36,10 @@ const deleteTest = async (id) => {
     await Test.deleteOne({ id });
 };
 
-export { createTest, findAllTests, findTestById, updateTest, deleteTest };
+module.exports = {
+  createTest,
+  findAllTests,
+  findTestById,
+  updateTest,
+  deleteTest,
+};
