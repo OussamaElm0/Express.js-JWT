@@ -1,29 +1,37 @@
 import mongoose from "mongoose";
-
-mongoose.connect("mongodb://127.0.0.1:27017/English");
-const db = mongoose.connection;
+import db from "./config/database";
 
 const test1Schema = new mongoose.Schema({
-  id: Number,
-  question: String,
-  answers: [Object],
-  rightAnswerId: String,
-  fullAnswer: String,
+    id: Number,
+    question: String,
+    answers: [Object],
+    rightAnswerId: String,
+    fullAnswer: String,
 });
 const Test = mongoose.model(`tests`, test1Schema);
 
-const findAll = () => {
-  var result = Test.find().exec();
-  return result;
+// Create operation
+const createTest = async (test) => {
+    await Test.create(test);
 };
 
-const findTest = async (idT) => {
-  const result = await Test.find({id: idT})
-  return result;
+// Read operations
+const findAllTests = () => {
+    return Test.find().exec();
 };
 
-const insertTest = async (test) => {
-    return await Test.create(test)   
-}
+const findTestById = async (id) => {
+    return Test.findOne({ id }).exec();
+};
 
-export { findAll, findTest, insertTest };
+// Update operation
+const updateTest = async (id, updatedTest) => {
+    await Test.updateOne({ id }, updatedTest);
+};
+
+// Delete operation
+const deleteTest = async (id) => {
+    await Test.deleteOne({ id });
+};
+
+export { createTest, findAllTests, findTestById, updateTest, deleteTest };
